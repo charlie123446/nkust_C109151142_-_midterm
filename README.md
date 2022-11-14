@@ -1,6 +1,8 @@
 # middle
 
-A new Flutter project.
+C109151142_陳明凱
+
+midterm project
 
 ## Getting Started
 
